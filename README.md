@@ -1,5 +1,6 @@
 # Ubersicht widget for Yabai status bar
 Simple Übersicht widgets as an addition to the Yabai's simple status bar
+Modified version of (zenbar)[https://github.com/zhaorz/zenbar]
 
 These widgets function as an addition to the Yabai's status bar.
 
