@@ -7,12 +7,12 @@ These widgets function as an addition to the Yabai's status bar.
 
 ![screenshot](screenshot.jpg)
 
+## Installation
+Add this to your .yabairc file
 ```
 yabai -m config status_bar                   on
 ```
-
-## Installation
-Run this command
+With [Ubersicht](http://tracesof.net/uebersicht/) installed, run this command
 ```bash
 git clone https://github.com/PatrikTrefil/ubersicht-widget-yabai.git $HOME/Library/Application\ Support/Übersicht/widgets/ubersicht-widget-yabai
 ```
