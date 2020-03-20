@@ -5,7 +5,7 @@ Modified version of [zenbar](https://github.com/zhaorz/zenbar).
 
 These widgets function as an addition to the Yabai's status bar.
 
-[screenshot](screenshot.jpg)
+![screenshot](screenshot.jpg)
 
 ```
 yabai -m config status_bar                   on
