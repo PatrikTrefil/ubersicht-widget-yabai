@@ -1,4 +1,7 @@
 # Ubersicht widget for Yabai status bar
+
+**Yabai Status bar has been deleted. You have to use an external bar instead such as BitBar.**
+
 Simple Übersicht widgets as an addition to the Yabai's simple status bar.
 
 Modified version of [zenbar](https://github.com/zhaorz/zenbar).
